@@ -1,4 +1,4 @@
-=# Parallel Computing Systems
+## Parallel Computing Systems
 
 Лабораторные работы по дисциплине **"Параллельные вычислительные системы"**.
 
