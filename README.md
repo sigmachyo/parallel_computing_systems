@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Parallel Computing Systems — Параллельные Вычислительные Системы
+=======
+## Parallel Computing Systems
+>>>>>>> e9534338955d276a3300683685460b2aa568c7d3
 
 ## 📋 О дисциплине
 
